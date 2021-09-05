@@ -1,0 +1,11 @@
+------"Moscow, Prospekt Vernadskogo" GYM------
+------CLIENTS-------
+Surname: Deniskin, Name: Alex
+Age: 21, Ticket number: 1235436
+Surname: Deniskin, Name: Alex
+Age: 21, Ticket number: 1235436
+------TRAINERS------
+Surname: Dubov, Name: Konstantin
+Age: 19, Document number: 181716, Work position: Handball Teacher
+Surname: Biden, Name: Joe
+Age: 78, Document number: 1, Work position: President of this gym
